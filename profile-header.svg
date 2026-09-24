@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Shiv Lahejatwala — ResumeDone frontend team lead</title>
+  <desc id="desc">One codebase. Many experiences. ResumeDone work account. Main profile: github.com/shivlahejat.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#131d19"/><stop offset="1" stop-color="#0b1010"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#a3e635" stop-opacity=".17"/><stop offset="1" stop-color="#a3e635" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#d4ebda" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1040" cy="160" rx="270" ry="240" fill="url(#glow)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="54" cy="49" r="5" fill="#a3e635"/>
+    <text x="70" y="54" fill="#c1d0c7" font-size="14" letter-spacing="3">SHIV LAHEJATWALA / FRONTEND ENGINEERING</text>
+    <text x="48" y="132" fill="#f0f5ed" font-size="54" font-weight="700" letter-spacing="-2">One codebase.</text>
+    <text x="48" y="198" fill="#a3e635" font-size="54" font-weight="700" letter-spacing="-2">Many experiences.</text>
+    <text x="50" y="243" fill="#b0c1b5" font-size="19">ResumeDone · React · Next.js · TypeScript</text>
+    <path d="M48 281H1152" stroke="#a3e635" stroke-opacity=".2"/>
+    <text x="50" y="320" fill="#d0dcd3" font-size="14" letter-spacing="2">RESUMEDONE WORK ACCOUNT</text>
+    <text x="1150" y="320" text-anchor="end" fill="#b0c1b5" font-size="14" letter-spacing="2">MAIN PROFILE / @SHIVLAHEJAT</text>
+    <g transform="translate(1000 150)">
+      <circle r="94" fill="none" stroke="#a3e635" stroke-opacity=".15"/>
+      <circle r="73" fill="none" stroke="#a3e635" stroke-opacity=".35"/>
+      <rect x="-48" y="-48" width="96" height="96" rx="24" fill="#a3e635"/>
+      <text x="0" y="17" text-anchor="middle" fill="#132017" font-size="48" font-weight="700" letter-spacing="-4">SL</text>
+      <circle cx="78" cy="-53" r="7" fill="#a3e635"/>
+    </g>
+  </g>
+</svg>
