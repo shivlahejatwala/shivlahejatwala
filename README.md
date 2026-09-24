@@ -22,14 +22,14 @@ const shiv = {
   location: "Surat, India 🇮🇳",
   skills: ["React", "Next.js", "TypeScript", "Node.js", "GraphQL"],
   currentFocus: "Building scalable, user-first web applications",
-  portfolio: "https://shivlahejatwala.vercel.app",
+  portfolio: "https://shivlahejat.vercel.app",
   blog: "https://multicodegenius.com/blogs",
   contact: "shivlahejat123@gmail.com",
   funFact: "I obsess over pixel-perfect UI and clean architecture equally",
 };
 ```
 
-- All projects live at **[shivlahejatwala.vercel.app](https://shivlahejatwala.vercel.app)**
+- All projects live at **[shivlahejat.vercel.app](https://shivlahejat.vercel.app)**
 - I write articles on web dev at **[multicodegenius.com/blogs](https://multicodegenius.com/blogs)**
 - Ask me about **HTML · CSS · JavaScript · React · Next.js · TypeScript · GraphQL**
 
@@ -123,7 +123,7 @@ const shiv = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivlahejatwala.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivlahejat.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv-lahejatwala-b8a638249/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shivlahejat)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://multicodegenius.com/blogs)
